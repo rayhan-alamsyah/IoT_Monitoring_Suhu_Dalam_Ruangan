@@ -1,0 +1,1 @@
+alat ini berfungsi untuk menyesuaikan suhu yg berada di dalam ruangan, kita dapat mengatur suhu, mengatifkan pendingin ruangan, dan memantau suhu di dalam ruangan secara realtime melalui aplikasi blynk.
